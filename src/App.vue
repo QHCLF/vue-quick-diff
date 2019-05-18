@@ -66,12 +66,14 @@ export default {
 }
 </script>
 
-<style lang="stylus" scoped>
+<style lang="stylus">
   *{
     margin: 0;
     padding: 0;
   }
-
+  html{
+    min-width 980px;
+  }
   #app {
     width: 100%;
     background-color: #fff;
@@ -104,7 +106,7 @@ export default {
         color: #42b883;
       }
       figure{
-        margin 0auto;
+        margin: 0 auto;
       }
     }
   }
