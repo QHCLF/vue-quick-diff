@@ -1,6 +1,7 @@
 # demo
 
 ![](./docs/demo/1.jpg) 
+
 A component that can quickly see the difference between two pictures
 
 ## Installation
